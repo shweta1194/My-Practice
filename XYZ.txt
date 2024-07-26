@@ -1,2 +1,0 @@
-Hello "Java Developers"
-Welcome to the GitHub
